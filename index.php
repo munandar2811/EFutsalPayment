@@ -1,6 +1,6 @@
 <?php
 
-$server_key = "SB-Mid-server-Z_GRLzBXBBUlvZjQm6uf6_QJ";
+$server_key = "Mid-server-NGGTGuGU8INIM7k4HGd6BsVR";
 
 $is_production = true;
 
